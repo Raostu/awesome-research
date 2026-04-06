@@ -38,7 +38,7 @@
 
 ## 🤖 AI Agent 框架
 
-### [MetaClaw](./MetaClaw/) ⭐ 3.5k+
+### [MetaClaw](./analysis/MetaClaw/) ⭐ 3.5k+
 
 **描述**: 元学习和进化的 AI Agent 框架 - 让 Agent 从每次对话中学习和进化
 
@@ -53,7 +53,7 @@
 
 **使用场景**: 需要持续学习和进化的个人 AI 助手
 
-**[查看详细分析 →](./MetaClaw/)**
+**[查看详细分析 →](./analysis/MetaClaw/)**
 
 ---
 
@@ -97,7 +97,7 @@
 
 ## 🧠 RAG 系统
 
-### [RAGFlow](./RAGFlow/) ⭐ 20k+
+### [RAGFlow](./analysis/RAGFlow/) ⭐ 20k+
 
 **描述**: 基于深度文档理解的 RAG 引擎
 
@@ -109,11 +109,11 @@
 
 **技术栈**: Python, React, Elasticsearch
 
-**[查看详细分析 →](./RAGFlow/)**
+**[查看详细分析 →](./analysis/RAGFlow/)**
 
 ---
 
-### [GraphRAG](./GraphRAG/) ⭐ 15k+
+### [GraphRAG](./analysis/GraphRAG/) ⭐ 15k+
 
 **描述**: 微软开源的基于知识图谱的 RAG 系统
 
@@ -125,11 +125,11 @@
 
 **技术栈**: Python, NetworkX, OpenAI
 
-**[查看详细分析 →](./GraphRAG/)**
+**[查看详细分析 →](./analysis/GraphRAG/)**
 
 ---
 
-### [LightRAG](./LightRAG/)
+### [LightRAG](./analysis/LightRAG/)
 
 **描述**: 轻量级 GraphRAG 实现
 
@@ -138,11 +138,11 @@
 - 🔄 增量更新
 - 🎯 精确检索
 
-**[查看详细分析 →](./LightRAG/)**
+**[查看详细分析 →](./analysis/LightRAG/)**
 
 ---
 
-### [Haystack](./Haystack/) ⭐ 10k+
+### [Haystack](./analysis/Haystack/) ⭐ 10k+
 
 **描述**: 端到端 NLP 框架，支持 RAG 和 Agent
 
@@ -154,11 +154,11 @@
 
 **技术栈**: Python, Transformers
 
-**[查看详细分析 →](./Haystack/)**
+**[查看详细分析 →](./analysis/Haystack/)**
 
 ---
 
-### [R2R](./R2R/)
+### [R2R](./analysis/R2R/)
 
 **描述**: 快速、模块化的 RAG 框架
 
@@ -167,11 +167,11 @@
 - 🚀 快速部署
 - 📊 可观测性
 
-**[查看详细分析 →](./R2R/)**
+**[查看详细分析 →](./analysis/R2R/)**
 
 ---
 
-### [Verba](./Verba/)
+### [Verba](./analysis/Verba/)
 
 **描述**: 基于 Weaviate 的 RAG 聊天机器人
 
@@ -180,11 +180,11 @@
 - 💬 聊天界面
 - 🔧 可配置检索策略
 
-**[查看详细分析 →](./Verba/)**
+**[查看详细分析 →](./analysis/Verba/)**
 
 ---
 
-### [AutoRAG](./AutoRAG/)
+### [AutoRAG](./analysis/AutoRAG/)
 
 **描述**: RAG 评估和优化框架
 
@@ -193,11 +193,11 @@
 - 🔧 超参数优化
 - 🎯 最佳实践推荐
 
-**[查看详细分析 →](./AutoRAG/)**
+**[查看详细分析 →](./analysis/AutoRAG/)**
 
 ---
 
-### [Cognita](./Cognita/)
+### [Cognita](./analysis/Cognita/)
 
 **描述**: 模块化生产级 RAG 框架
 
@@ -206,11 +206,11 @@
 - 🔧 模块化组件
 - 📊 可观测性
 
-**[查看详细分析 →](./Cognita/)**
+**[查看详细分析 →](./analysis/Cognita/)**
 
 ---
 
-### [OpenRAG](./OpenRAG/)
+### [OpenRAG](./analysis/OpenRAG/)
 
 **描述**: 综合 RAG 平台
 
@@ -219,11 +219,11 @@
 - 🤖 Agent 集成
 - 📊 评估工具
 
-**[查看详细分析 →](./OpenRAG/)**
+**[查看详细分析 →](./analysis/OpenRAG/)**
 
 ---
 
-### [RAG-Techniques](./RAG-Techniques/)
+### [RAG-Techniques](./analysis/RAG-Techniques/)
 
 **描述**: RAG 技术实现示例集合
 
@@ -232,11 +232,11 @@
 - 🎯 最佳实践示例
 - 🔧 可复用组件
 
-**[查看详细分析 →](./RAG-Techniques/)**
+**[查看详细分析 →](./analysis/RAG-Techniques/)**
 
 ---
 
-### [Anything-LLM](./Anything-LLM/)
+### [Anything-LLM](./analysis/Anything-LLM/)
 
 **描述**: 一体化 AI 生产力工具
 
@@ -245,11 +245,11 @@
 - 📄 多文档类型支持
 - 🔧 多模型支持
 
-**[查看详细分析 →](./Anything-LLM/)**
+**[查看详细分析 →](./analysis/Anything-LLM/)**
 
 ---
 
-### [Azure-Search-OpenAI-Demo](./Azure-Search-OpenAI-Demo/)
+### [Azure-Search-OpenAI-Demo](./analysis/Azure-Search-OpenAI-Demo/)
 
 **描述**: Azure AI Search + OpenAI RAG 示例
 
@@ -258,11 +258,11 @@
 - 🔍 Azure AI Search
 - 🤖 OpenAI 集成
 
-**[查看详细分析 →](./Azure-Search-OpenAI-Demo/)**
+**[查看详细分析 →](./analysis/Azure-Search-OpenAI-Demo/)**
 
 ---
 
-### [Langchain-Chatchat](./Langchain-Chatchat/)
+### [Langchain-Chatchat](./analysis/Langchain-Chatchat/)
 
 **描述**: 基于 LangChain 的本地知识库问答
 
@@ -271,11 +271,11 @@
 - 📚 知识库管理
 - 💬 多轮对话
 
-**[查看详细分析 →](./Langchain-Chatchat/)**
+**[查看详细分析 →](./analysis/Langchain-Chatchat/)**
 
 ---
 
-### [Khoj](./Khoj/)
+### [Khoj](./analysis/Khoj/)
 
 **描述**: 自托管 AI 第二大脑
 
@@ -284,7 +284,7 @@
 - 💬 AI 对话
 - 🏠 自托管
 
-**[查看详细分析 →](./Khoj/)**
+**[查看详细分析 →](./analysis/Khoj/)**
 
 ---
 
@@ -333,7 +333,7 @@
 
 ## 🛠️ 工具与集成
 
-### [LangChain](./LangChain/) ⭐ 90k+
+### [LangChain](./analysis/LangChain/) ⭐ 90k+
 
 **描述**: LLM 应用开发框架
 
@@ -345,11 +345,11 @@
 
 **技术栈**: Python, TypeScript
 
-**[查看详细分析 →](./LangChain/)**
+**[查看详细分析 →](./analysis/LangChain/)**
 
 ---
 
-### [LlamaIndex](./LlamaIndex/) ⭐ 35k+
+### [LlamaIndex](./analysis/LlamaIndex/) ⭐ 35k+
 
 **描述**: LLM 数据框架
 
@@ -361,11 +361,11 @@
 
 **技术栈**: Python
 
-**[查看详细分析 →](./LlamaIndex/)**
+**[查看详细分析 →](./analysis/LlamaIndex/)**
 
 ---
 
-### [Quivr](./Quivr/)
+### [Quivr](./analysis/Quivr/)
 
 **描述**: 第二大脑，知识管理 RAG 应用
 
@@ -374,7 +374,7 @@
 - 💬 多模型对话
 - 🔧 可扩展架构
 
-**[查看详细分析 →](./Quivr/)**
+**[查看详细分析 →](./analysis/Quivr/)**
 
 ---
 
@@ -463,16 +463,17 @@
 欢迎贡献！请遵循以下步骤：
 
 1. **Fork** 本仓库
-2. **创建目录**: 为每个项目创建独立目录
+2. **创建目录**: 在 `analysis/` 目录下为每个项目创建独立目录
 3. **添加分析**: 在目录中添加 README.md，包含架构分析、核心特性、使用场景
-4. **更新主 README**: 在主 README 中添加项目链接
+4. **更新主 README**: 在主 README 中添加项目链接（格式：`./analysis/项目名/`）
 5. **提交 PR**: 使用清晰的标题和描述
 
-### 项目目录结构模板
+### 目录结构模板
 
 ```
-project-name/
-└── README.md          # 项目详细分析
+analysis/
+└── project-name/
+    └── README.md          # 项目详细分析
 ```
 
 ### 项目信息模板
