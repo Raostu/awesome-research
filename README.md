@@ -38,7 +38,7 @@
 
 ## 🤖 AI Agent 框架
 
-### [MetaClaw](https://github.com/aiming-lab/MetaClaw) ⭐ 3.5k+
+### [MetaClaw](./analysis/MetaClaw/) ⭐ 3.5k+
 
 **描述**: 元学习和进化的 AI Agent 框架 - 让 Agent 从每次对话中学习和进化
 
@@ -53,7 +53,7 @@
 
 **使用场景**: 需要持续学习和进化的个人 AI 助手
 
-**分析详情**: [MetaClaw 分析报告](./analysis/metaclaw.md)
+**[查看详细分析 →](./analysis/MetaClaw/)**
 
 ---
 
@@ -97,7 +97,7 @@
 
 ## 🧠 RAG 系统
 
-### [RAGFlow](https://github.com/infiniflow/ragflow) ⭐ 20k+
+### [RAGFlow](./analysis/RAGFlow/) ⭐ 20k+
 
 **描述**: 基于深度文档理解的 RAG 引擎
 
@@ -109,9 +109,11 @@
 
 **技术栈**: Python, React, Elasticsearch
 
+**[查看详细分析 →](./analysis/RAGFlow/)**
+
 ---
 
-### [GraphRAG](https://github.com/microsoft/graphrag) ⭐ 15k+
+### [GraphRAG](./analysis/GraphRAG/) ⭐ 15k+
 
 **描述**: 微软开源的基于知识图谱的 RAG 系统
 
@@ -123,9 +125,11 @@
 
 **技术栈**: Python, NetworkX, OpenAI
 
+**[查看详细分析 →](./analysis/GraphRAG/)**
+
 ---
 
-### [LightRAG](https://github.com/HKUDS/LightRAG)
+### [LightRAG](./analysis/LightRAG/)
 
 **描述**: 轻量级 GraphRAG 实现
 
@@ -134,9 +138,11 @@
 - 🔄 增量更新
 - 🎯 精确检索
 
+**[查看详细分析 →](./analysis/LightRAG/)**
+
 ---
 
-### [Haystack](https://github.com/deepset-ai/haystack) ⭐ 10k+
+### [Haystack](./analysis/Haystack/) ⭐ 10k+
 
 **描述**: 端到端 NLP 框架，支持 RAG 和 Agent
 
@@ -147,6 +153,138 @@
 - 🧪 评估框架
 
 **技术栈**: Python, Transformers
+
+**[查看详细分析 →](./analysis/Haystack/)**
+
+---
+
+### [R2R](./analysis/R2R/)
+
+**描述**: 快速、模块化的 RAG 框架
+
+**核心特性**:
+- 🔧 模块化架构
+- 🚀 快速部署
+- 📊 可观测性
+
+**[查看详细分析 →](./analysis/R2R/)**
+
+---
+
+### [Verba](./analysis/Verba/)
+
+**描述**: 基于 Weaviate 的 RAG 聊天机器人
+
+**核心特性**:
+- 🔍 Weaviate 向量数据库
+- 💬 聊天界面
+- 🔧 可配置检索策略
+
+**[查看详细分析 →](./analysis/Verba/)**
+
+---
+
+### [AutoRAG](./analysis/AutoRAG/)
+
+**描述**: RAG 评估和优化框架
+
+**核心特性**:
+- 📊 自动化评估
+- 🔧 超参数优化
+- 🎯 最佳实践推荐
+
+**[查看详细分析 →](./analysis/AutoRAG/)**
+
+---
+
+### [Cognita](./analysis/Cognita/)
+
+**描述**: 模块化生产级 RAG 框架
+
+**核心特性**:
+- 🏢 企业级部署
+- 🔧 模块化组件
+- 📊 可观测性
+
+**[查看详细分析 →](./analysis/Cognita/)**
+
+---
+
+### [OpenRAG](./analysis/OpenRAG/)
+
+**描述**: 综合 RAG 平台
+
+**核心特性**:
+- 🔧 多种检索策略
+- 🤖 Agent 集成
+- 📊 评估工具
+
+**[查看详细分析 →](./analysis/OpenRAG/)**
+
+---
+
+### [RAG-Techniques](./analysis/RAG-Techniques/)
+
+**描述**: RAG 技术实现示例集合
+
+**核心特性**:
+- 📚 多种 RAG 技术实现
+- 🎯 最佳实践示例
+- 🔧 可复用组件
+
+**[查看详细分析 →](./analysis/RAG-Techniques/)**
+
+---
+
+### [Anything-LLM](./analysis/Anything-LLM/)
+
+**描述**: 一体化 AI 生产力工具
+
+**核心特性**:
+- 💬 多工作区管理
+- 📄 多文档类型支持
+- 🔧 多模型支持
+
+**[查看详细分析 →](./analysis/Anything-LLM/)**
+
+---
+
+### [Azure-Search-OpenAI-Demo](./analysis/Azure-Search-OpenAI-Demo/)
+
+**描述**: Azure AI Search + OpenAI RAG 示例
+
+**核心特性**:
+- ☁️ Azure 云服务集成
+- 🔍 Azure AI Search
+- 🤖 OpenAI 集成
+
+**[查看详细分析 →](./analysis/Azure-Search-OpenAI-Demo/)**
+
+---
+
+### [Langchain-Chatchat](./analysis/Langchain-Chatchat/)
+
+**描述**: 基于 LangChain 的本地知识库问答
+
+**核心特性**:
+- 🏠 本地部署
+- 📚 知识库管理
+- 💬 多轮对话
+
+**[查看详细分析 →](./analysis/Langchain-Chatchat/)**
+
+---
+
+### [Khoj](./analysis/Khoj/)
+
+**描述**: 自托管 AI 第二大脑
+
+**核心特性**:
+- 🔍 个人知识搜索
+- 💬 AI 对话
+- 🏠 自托管
+
+**[查看详细分析 →](./analysis/Khoj/)**
 
 ---
 
@@ -195,7 +333,7 @@
 
 ## 🛠️ 工具与集成
 
-### [LangChain](https://github.com/langchain-ai/langchain) ⭐ 90k+
+### [LangChain](./analysis/LangChain/) ⭐ 90k+
 
 **描述**: LLM 应用开发框架
 
@@ -207,9 +345,11 @@
 
 **技术栈**: Python, TypeScript
 
+**[查看详细分析 →](./analysis/LangChain/)**
+
 ---
 
-### [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 35k+
+### [LlamaIndex](./analysis/LlamaIndex/) ⭐ 35k+
 
 **描述**: LLM 数据框架
 
@@ -220,6 +360,21 @@
 - 📊 评估框架
 
 **技术栈**: Python
+
+**[查看详细分析 →](./analysis/LlamaIndex/)**
+
+---
+
+### [Quivr](./analysis/Quivr/)
+
+**描述**: 第二大脑，知识管理 RAG 应用
+
+**核心特性**:
+- 🧠 知识库构建
+- 💬 多模型对话
+- 🔧 可扩展架构
+
+**[查看详细分析 →](./analysis/Quivr/)**
 
 ---
 
@@ -295,9 +450,9 @@
 | 类别 | 项目数量 | 总 Stars |
 |------|---------|---------|
 | AI Agent 框架 | 4 | 13.5k+ |
-| RAG 系统 | 4 | 45k+ |
+| RAG 系统 | 14 | 45k+ |
 | 多智能体协调 | 3 | 90k+ |
-| 工具与集成 | 3 | 125k+ |
+| 工具与集成 | 4 | 125k+ |
 | 记忆系统 | 2 | 20k+ |
 | 分析与评估 | 3 | - |
 
@@ -308,27 +463,43 @@
 欢迎贡献！请遵循以下步骤：
 
 1. **Fork** 本仓库
-2. **添加项目**: 在对应分类下添加项目信息
-3. **提供分析**: 包含架构分析、核心特性、使用场景
-4. **提交 PR**: 使用清晰的标题和描述
+2. **创建目录**: 在 `analysis/` 目录下为每个项目创建独立目录
+3. **添加分析**: 在目录中添加 README.md，包含架构分析、核心特性、使用场景
+4. **更新主 README**: 在主 README 中添加项目链接（格式：`./analysis/项目名/`）
+5. **提交 PR**: 使用清晰的标题和描述
+
+### 目录结构模板
+
+```
+analysis/
+└── project-name/
+    └── README.md          # 项目详细分析
+```
 
 ### 项目信息模板
 
 ```markdown
-### [项目名称](项目链接) ⭐ Stars
+# 项目名称
 
 **描述**: 一句话描述
 
-**核心特性**:
+## 核心特性
 - 特性 1
 - 特性 2
 - 特性 3
 
-**技术栈**: 主要技术
+## 技术栈
+主要技术
 
-**使用场景**: 适用场景
+## 使用场景
+适用场景
 
-**分析详情**: [分析报告](./analysis/project-name.md)
+## 架构分析
+详细架构说明...
+
+## 参考资料
+- [GitHub 仓库](链接)
+- [官方文档](链接)
 ```
 
 ---
